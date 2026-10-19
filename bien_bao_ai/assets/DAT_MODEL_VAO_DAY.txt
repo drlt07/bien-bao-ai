@@ -1,0 +1,1 @@
+Chép file model.tflite (tải về từ notebook CNN_bien_bao_traffic_sign.ipynb, ô 9) vào thư mục assets này.
